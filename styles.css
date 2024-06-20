@@ -308,7 +308,7 @@
   }
   footer .nav-ul {
     justify-content: center;
-    margin-bottom: 1em;
+    margin-bottom: 1.25em;
   }
   footer li:not(:first-child) {
     margin-left: .75em;
