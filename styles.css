@@ -291,6 +291,9 @@
   .logo-container:nth-of-type(5) img {
     margin-top: .35em;
   }
+  .imagen-reducida img{
+    margin-top: 2.50em;
+  }
   .sec-partners img {
     float: left;
     width: 100%;
