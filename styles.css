@@ -274,7 +274,7 @@
   .logo-container {
     float: left;
     width: 16%;
-    width: 16px;
+    width: 100px;
   }
   .logo-container:not(:first-child) {
     margin-left: 7.5%;
@@ -308,7 +308,7 @@
   }
   footer .nav-ul {
     justify-content: center;
-    margin-bottom: 1.25em;
+    margin-bottom: 1.2em;
   }
   footer li:not(:first-child) {
     margin-left: .75em;
