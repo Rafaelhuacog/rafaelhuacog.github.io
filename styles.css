@@ -274,7 +274,7 @@
   .logo-container {
     float: left;
     width: 16%;
-    width: 100px;
+    width: 16px;
   }
   .logo-container:not(:first-child) {
     margin-left: 7.5%;
@@ -292,7 +292,7 @@
     margin-top: 1em;
   }
   .imagen-reducida img{
-    margin-top: 2.50em;
+    margin-top: 1em;
   }
   .sec-partners img {
     float: left;
