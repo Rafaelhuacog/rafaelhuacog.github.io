@@ -276,6 +276,11 @@
     width: 16%;
     width: 100px;
   }
+  .logo-empresa {
+    float: Center;
+    width: 30%;
+    width: 100px;
+  }
   .logo-container:not(:first-child) {
     margin-left: 7.5%;
   }
