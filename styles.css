@@ -272,8 +272,8 @@
     width: 100%;
   }
   .logo-container {
-    float: left;
-    width: 30%;
+    float: center;
+    width: 16%;
     width: 100px;
   }
   .logo-container:not(:first-child) {
@@ -294,8 +294,8 @@
   .sec-partners img {
     display: block;
     margin: 0 auto;
-    width: 16px;
-    height: 16px;
+    width: 100px;
+    height: 100px;
     object-fit: cover;
 }
   
