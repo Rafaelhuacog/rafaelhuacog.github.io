@@ -10,7 +10,7 @@
   html {
     font: 16px 'Open Sans Condensed', 'Roboto Condensed', Verdana, sans-serif;
   }
-  h1 { font-size: 2.25em; }
+  h1 { font-size: 2.15em; }
   h2 { font-size: 2em; }
   h3 { font-size: 1.75em; }
   h4 { font-size: 1.5em; }
@@ -290,12 +290,6 @@
   }
   .logo-container:nth-of-type(4) img {
     margin-top: 2.35em;
-  }
-  .logo-container:nth-of-type(5) img {
-    margin-top: .35em;
-  }
-  .logo-container:last-of-type img {
-    margin-top: .65em;
   }
   .sec-partners img {
     float: left;
