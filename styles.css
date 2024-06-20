@@ -11,7 +11,7 @@
     font: 16px 'Open Sans Condensed', 'Roboto Condensed', Verdana, sans-serif;
   }
   h1 { font-size: 2em; }
-  h2 { font-size: 2em; }
+  h2 { font-size: 1.9em; }
   h3 { font-size: 1.75em; }
   h4 { font-size: 1.5em; }
   p { font-size: 1.25em; }
@@ -19,8 +19,8 @@
   /* Layout */
   html,
   body {
-    width: 80%;
-    height: 80%;
+    width: 100%;
+    height: 100%;
   }
   body {
     color: var(--lightBlack);
