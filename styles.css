@@ -272,8 +272,8 @@
     width: 100%;
   }
   .logo-container {
-    float: left;
-    width: 16%;
+    float: center;
+    width: 50%;
     width: 100px;
   }
   .logo-container:not(:first-child) {
