@@ -263,7 +263,7 @@
   }
   
   /* Partners */
-  .sec-partners h1 {
+.sec-partners h1 {
     margin-top: 1em;
   }
   .sec-partners .row {
@@ -279,17 +279,17 @@
   .logo-container:not(:first-child) {
     margin-left: 7.5%;
   }
-  .logo-container:first-child {
-    margin-top: .3em;
-  }
   .logo-container:nth-of-type(2) img {
-    margin-top: 1em;
+    margin-top: 1.2em;
   }
   .logo-container:nth-of-type(3) img {
-    margin-top: 3em;
+    margin-top: 1.8em;
   }
   .logo-container:nth-of-type(4) img {
     margin-top: 2.35em;
+  }
+  .logo-container:nth-of-type(5) img {
+    margin-top: .35em;
   }
   .sec-partners img {
     float: left;
