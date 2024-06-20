@@ -1,5 +1,5 @@
 :root {
-    --red: #3f92d6;
+    --red: #ad0000;
     --lightBlack: #333;
     --darkGrey: #a9a9a9;
     --ghostWhite: #f8f8ff;
@@ -10,7 +10,7 @@
   html {
     font: 16px 'Open Sans Condensed', 'Roboto Condensed', Verdana, sans-serif;
   }
-  h1 { font-size: 2.10em; }
+  h1 { font-size: 2.25em; }
   h2 { font-size: 2em; }
   h3 { font-size: 1.75em; }
   h4 { font-size: 1.5em; }
@@ -19,8 +19,8 @@
   /* Layout */
   html,
   body {
-    width: 50%;
-    height: 50%;
+    width: 100%;
+    height: 100%;
   }
   body {
     color: var(--lightBlack);
