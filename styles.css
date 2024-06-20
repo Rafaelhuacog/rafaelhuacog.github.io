@@ -294,8 +294,8 @@
   .sec-partners img {
     display: block;
     margin: 0 auto;
-    width: 100px;
-    height: 100px;
+    width: 16px;
+    height: 16px;
     object-fit: cover;
 }
   
