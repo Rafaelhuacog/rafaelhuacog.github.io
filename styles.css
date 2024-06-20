@@ -6,6 +6,11 @@
     --lightGrey: #d3d3d3;
   }
   
+  body {
+    background-color: #757d82;
+    font-size: 30px;
+  }
+  
   /* Typography */
   html {
     font: 16px 'Open Sans Condensed', 'Roboto Condensed', Verdana, sans-serif;
