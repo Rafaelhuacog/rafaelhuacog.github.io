@@ -1,9 +1,10 @@
 /* Global Styles */
 body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #f0f8ff; /* Light blue similar to sky */
+  background-image: url('fondo\ 1.jpg');
+  background-size: cover; /* Hace que la imagen cubra toda la página */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  background-attachment: fixed; /* Hace que la imagen se quede fija cuando se hace scroll */
+  background-position: center;
 }
 
 /* Header Styles */
